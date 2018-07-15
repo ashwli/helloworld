@@ -1,0 +1,2 @@
+# helloworld
+function declaration that takes as its two arguments a FILE pointer and a pointer to a WAV header structure. This function will not return any value. This function will be used to open an input WAV and read-in a WAV header structure from the file, storing it in the WAV header structure in the main( ) function. You will write the function definition in a later step. Here in step (2), you only need to write the function declaration.
